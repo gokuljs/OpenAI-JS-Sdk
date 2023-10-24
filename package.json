@@ -1,0 +1,34 @@
+{
+  "name": "openai-js-sdk",
+  "version": "1.0.0",
+  "description": "An easy-to-use JavaScript SDK for interacting with OpenAI's API, enabling developers to seamlessly integrate OpenAI’s powerful machine learning models into their web applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gokuljs/OpenAI-JS-Sdk.git"
+  },
+  "keywords": [
+    "\"openai\"",
+    "\"javascript\"",
+    "\"sdk\"",
+    "\"api\"",
+    "\"machine-learning\"",
+    "\"gpt\"",
+    "\"chatgpt\"",
+    "\"natural-language-processing\"",
+    "\"text-generation\"",
+    "\"language-model\""
+  ],
+  "author": "Gokul JS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gokuljs/OpenAI-JS-Sdk/issues"
+  },
+  "homepage": "https://github.com/gokuljs/OpenAI-JS-Sdk#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
